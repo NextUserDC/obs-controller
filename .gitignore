@@ -1,0 +1,20 @@
+# Dependencias
+node_modules/
+
+# Artefactos de build
+out/
+dist/
+release/
+
+# Builds generados
+*.tsbuildinfo
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*
+
+# Entorno local
+.env
+.env.local
